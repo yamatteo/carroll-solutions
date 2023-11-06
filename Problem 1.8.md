@@ -1,0 +1,4 @@
+>If $\partial_\nu T^{\mu\nu} = Q^\mu$, what physically does the spatial vector $Q^i$ represent? Use the dust energy momentum tensor to make your case.
+
+By definition, $Q^i = $, that in the case of dust is $$Q^x = \partial_\nu T^{x \nu} = \partial_\nu T^{\nu x} = \partial_t T^{t x} + \partial_x T^{x x} + \partial_y T^{y x} + \partial_z T^{z x} = \partial_t p^x + \nabla P^x$$
+where $p^x$ is the momentum density in the $x$ direction and $\nabla P^x$ is the sum of the forces acting on the point due to pressure and shears. Or something like it. So $Q^i$ is the variation of momentum in the $i$ direction and $Q^0$ is the variation of energy. But that lead me to think that $T^{ij}$ are not forces, but powers. Who knows, maybe there is a factor of $c$ involved.
