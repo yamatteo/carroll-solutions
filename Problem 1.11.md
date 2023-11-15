@@ -18,4 +18,4 @@ Then, consider indices $\{0, 2, 3\}$, we get $$\begin{eqnarray}
 & = & \partial_0 F_{23} + \partial_2 F_{3 0} + \partial_3 F_{0 2} \\
 & = & \partial_0 B_1 + \partial_2 E_3 - \partial_3 E_2
 \end{eqnarray}$$ and similarly, sets $\{0, 1, 3\}$ and $\{0, 1, 2\}$ gives the other equations in $\tilde\epsilon^{ijk} \partial_j E_k + \partial_0 B^i = 0$.
-On the other hand, if we take repeating indices, we already know it is $0$ becase of the equivalence with $\partial_{[\mu} F_{\nu\lambda]} = 0$.
+On the other hand, if we take repeating indices, we already know it is $0$ because of the equivalence with $\partial_{[\mu} F_{\nu\lambda]} = 0$.
