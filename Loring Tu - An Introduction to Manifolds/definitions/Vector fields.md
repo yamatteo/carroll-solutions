@@ -1,0 +1,3 @@
+A _vector field_ $X$ on an open subset $U \subset \mathbb{R}^n$ is a function that assigns to each point $p \in U$ a tangent vector $X_p \in T_p(\mathbb{R}^n)$. Since $T_p(\mathbb{R}^n)$ has basis ${\frac{\partial}{\partial x^1}\vert_p, \dots, \frac{\partial}{\partial x^n}\vert_p}$, the vector $X_p$ can be written as
+$$X_p = \sum_{i=1}^n a_i(p) \frac{\partial}{\partial x^i}\bigg\vert_p$$
+where $a_i: U \to \mathbb{R}$ are functions. The vector field $X$ is called $C^{\infty}$ on $U$ if the coefficient functions $a_i$ are all $C^{\infty}$ on $U$.
