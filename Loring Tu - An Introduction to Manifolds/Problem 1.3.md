@@ -11,4 +11,4 @@ Function $\tan(x)$ is $C^\infty$ because it is analytic and can be expressed as 
 Let $h(x) = -\frac{\pi}{2} + \pi\cdot\frac{x-a}{b-a}$. It is a lineare function (so a diffeomorphism) from $]a, b[$ to $\left]-\frac{\pi}{2},\frac{\pi}{2}\right[$ and $f \circ h$ is a diffeomorphism from $]a, b[$ to $\mathbb R$.
 
 We can say that both $]a, \infty[$ and $]-\infty, b[$ are diffeomorphic to $\mathbb R$. But we could use directly $x \mapsto b + a - x$
-![[Drawing 2023-11-16 12.33.22.excalidraw]]
+![](<Excalidraw/Drawing 2023-11-16 12.33.22.excalidraw>)

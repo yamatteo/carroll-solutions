@@ -24,6 +24,19 @@ I use [obsidian](https://obsidian.md/) and [excalidraw](https://github.com/excal
 - [[Loring Tu - An Introduction to Manifolds/Problem 2.3|Problem 2.3]]
 - [[Loring Tu - An Introduction to Manifolds/Problem 2.4|Problem 2.4]]
 
+## Section 3. The Exterior Algebra of Multicovectors
+
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.1|Problem 3.1]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.2|Problem 3.2]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.3|Problem 3.3]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.4|Problem 3.4]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.5|Problem 3.5]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.6|Problem 3.6]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.7|Problem 3.7]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.8|Problem 3.8]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.9|Problem 3.9]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.10|Problem 3.10]]
+- [[Loring Tu - An Introduction to Manifolds/Problem 3.11|Problem 3.11]]
 ---
 # Sean Carroll - Spacetime and geometry
 ## Chapter 1. Special relativity and flat spacetime
