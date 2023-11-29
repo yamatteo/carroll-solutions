@@ -1,3 +1,0 @@
-> Let $V$ be a vector space of dimension $n$. Prove that if an $n$-covector $\omega$ vanishes on a basis $e_1, \ldots, e_n$ for $V$, then $\omega$ is the zero covector on $V$.
-
-For any permutation $\sigma \in S_n$, $\omega(e_{\sigma(1)}, \dots, e_{\sigma (n)}) = \text{sgn}(\sigma) \omega(e_1, \dots, e_n) = 0$. Since any $n$-tuple $(v_1, \dots, v_n)$ can be decomposed into linear combinations of $n$-tuples of the basis, $\omega$ is the zero covector.

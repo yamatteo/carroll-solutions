@@ -1,3 +1,0 @@
-> Let $g:\mathbb{R}\to\mathbb{R}$ be the function in Example 1.2 (iii) (that is $g(x) = \frac{3}{4} x^{4/3}$. Show that the function $h(x) = \int_0^x g(t)\,dt$ is $C^2$ but not $C^3$ at $x=0$.
-
-By definition, $h'(x) = \frac34 x^{4/3}$; and easily $h''(x) = x^{1/3}$, which is continuous on $\mathbb R$ so $h$ is $C^2$. But $h''$ there is no derivative of $h''$ at point $x=0$, because the relevant limit does not exist. So not $C^3$ at $x=0$.
