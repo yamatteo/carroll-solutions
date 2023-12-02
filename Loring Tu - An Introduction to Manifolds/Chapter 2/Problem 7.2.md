@@ -1,0 +1,3 @@
+> Let $H^2$ be the closed upper hemisphere in the unit sphere $S^2$. Let $i : H^2 \to S^2$ be the inclusion map. In the notation of Example 7.13, prove that the induced map $f : H^2/{\sim} \to S^2/{\sim}$ is a homeomorphism. (Hint: Imitate Proposition 7.3.)
+
+The inclusion map is continuous, because the hemisphere and the sphere share the same open sets. So $f$ is continuous. It is also surjective, because $H^2 \subseteq S^2$.  It is also injective because two points in $H^2$ are in relation if and only if they are in relation in $S^2$ as well. The inverse of $f$ is also continuous, because $f$ is a continuous function between two compact Hausdorff spaces.

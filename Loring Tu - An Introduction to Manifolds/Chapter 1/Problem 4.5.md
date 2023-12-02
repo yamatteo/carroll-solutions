@@ -1,0 +1,3 @@
+> Let $\alpha$ be a 1-form and $\beta$ a 2-form on $\mathbb{R}^3$. Then $$\begin{eqnarray}&&\alpha = a_1 dx^1 + a_2 dx^2 + a_3 dx^3 \\ &&\beta = b_1 dx^2 \wedge dx^3 + b_2 dx^3 \wedge dx^1 + b_3 dx^1 \wedge dx^2\end{eqnarray}$$ Simplify the expression $\alpha \wedge \beta$ as much as possible.
+
+It's just a calculation, $\alpha \wedge \beta = (a_1 b_1 + a_2 b_2 + a_3 b_3)(dx^1 \wedge dx^2 \wedge dx^3)$.

@@ -1,0 +1,3 @@
+> Let $\{(U_\alpha, \phi_\alpha)\}$ be the maximal atlas on a manifold $M$. For any open set $U$ in $M$ and a point $p \in U$, prove the existence of a coordinate open set $U_\alpha$ such that $p \in U_\alpha \subset U$.
+
+Being an atlas, there is some $(U_\beta, \phi_\beta)$ chart around $p$. Taking $U_\alpha = U_\beta \cap U$ and $\phi_\alpha = \phi_\beta|_{U_\alpha}$, we have still a chart that is compatible with $(U_\beta, \phi_\beta)$, therefore with the whole atlas.

@@ -1,0 +1,4 @@
+> A fundamental theorem of topology, the theorem on invariance of dimension, states that if two nonempty open sets $U \subset \mathbb{R}^n$ and $V \subset \mathbb{R}^m$ are homeomorphic, then $n = m$ (for a proof, see [18, p. 126]). Use the idea of Example 5.4 as well as the theorem on invariance of dimension to prove that the sphere with a hair in $\mathbb{R}^3$ is not locally Euclidean at $q$. Hence it cannot be a topological manifold.
+
+![](<Drawing 2023-11-28 14.24.23.excalidraw>)
+The idea is: if this object is a manifold, then there is a chart around $q$ from the open set $U$. Then the same homeomorphism work for $U - \{q\}$ but this set is not connected but the disjoint union of a 2-manifold included in the sphere and a 1-manifold included in the hair.ARSSDSASASS

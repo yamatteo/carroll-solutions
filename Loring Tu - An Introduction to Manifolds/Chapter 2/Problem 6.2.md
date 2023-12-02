@@ -1,0 +1,3 @@
+> Let $M$ and $N$ be manifolds and let $q_0$ be a point in $N$. Prove that the inclusion map $i_{q_0}: M \to M \times N$, $i_{q_0}(p) = (p, q_0)$, is $\mathcal{C}^\infty$.
+
+For any point $p \in M$, there is a chart $(U, \phi: U \to \mathbb R^m)$ about $p$. There is a chart $(V, \psi: V \to \mathbb R^n)$ about $q_0$. So there is a chart $(U\times V, \phi \times \psi: U \times V \to \mathbb R^{m+n})$ and $f = (\phi \times \psi) \circ i_{q_0} \circ \phi^{-1}$ is a function from $\mathbb R^m$ to $\mathbb R^{m+n}$. Its components from $f_1$ to $f_m$ are the component projection, so smooth. Its components from $f_{m+1}$ to $f_{m+n}$ are constant functions, so smooth. Since every component is smooth, $f$ is smooth and, therefore, $i_{q_0}$ is smooth.

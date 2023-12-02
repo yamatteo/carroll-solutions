@@ -63,6 +63,11 @@ I use [obsidian](https://obsidian.md/) and [excalidraw](https://github.com/excal
 - [[Problem 6.3]]
 - [[Problem 6.4]]
 
+## Section 7. Quotients
+
+- [[Problem 7.1]]
+- [[Problem 7.2]]
+
 ---
 # Sean Carroll - Spacetime and geometry
 ## Chapter 1. Special relativity and flat spacetime

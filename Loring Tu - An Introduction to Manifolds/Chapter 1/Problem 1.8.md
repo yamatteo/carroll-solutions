@@ -1,0 +1,3 @@
+> Define $f: \mathbb R \to \mathbb R$ by $f(x) = x^3$. Show that $f$ is a bijective $C^\infty$ map, but that $f^{-1}$ is not $C^\infty$. (This example shows that a bijective $C^\infty$ map need not to have a $C^\infty$ inverse. In complex analysis, the situation is quite different: a bijective holomorphic map $f: \mathbb C \to \mathbb C$ necessarily has a holomorphic inverse.)
+
+The function $f$ is continuous, unbounded and strictly increasing, so its bijective. It is also $C^\infty$, its derivatives are $3x^2$, $6x$, $6$ and then always $0$ thereafter. Its inverse $f^{-1}(x) = \sqrt[3]{x}$ is continuous  but its derivative is not defined for $x=0$.

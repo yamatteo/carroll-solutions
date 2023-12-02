@@ -1,0 +1,6 @@
+> Let $S^2$ be the unit sphere $$x^2 + y^2 + z^2 = 1$$
+in $\mathbb{R}^3$. Define in $S^2$ the six charts corresponding to the six hemispheres (front, rear, right, left, upper, lower): $$\begin{eqnarray}U_1 = \{(x, y, z) \in S^2 | x > 0\} \qquad \phi_1(x, y, z) = (y, z)\\ U_2 = \{(x, y, z) \in S^2 | x < 0\} \qquad \phi_2(x, y, z) = (y, z)\\ U_3 = \{(x, y, z) \in S^2 | y > 0\} \qquad \phi_3(x, y, z) = (x, z)\\ U_4 = \{(x, y, z) \in S^2 | y < 0\} \qquad \phi_4(x, y, z) = (x, z)\\ U_5 = \{(x, y, z) \in S^2 | z > 0\} \qquad \phi_5(x, y, z) = (x, y)\\ U_6 = \{(x, y, z) \in S^2 | z < 0\} \qquad \phi_6(x, y, z) = (x, y)\\ \end{eqnarray}$$
+> Describe the domain $\phi_4(U_{14})$ of $\phi_1 \circ \phi^{-1}_4$ and show that $\phi_1 \circ \phi^{-1}_4$ is $C^\infty$ on $\phi_4(U_{14})$. Do the same for $\phi_6 \circ \phi^{-1}_1$.
+
+The set $U_{14} = U_1 \cap U_4$ contains only points with $x>0$ and $y < 0$. So we can say that $\phi_4(U_{14}) = \{ (x, z) \in \mathbb R^2 | 0 < x < 1 \text{ and } x^2 + z^1 < 1 \}$. The function $\phi_1 \circ \phi_4^{-1}$ maps $(x, z)$ to $(-\sqrt{1 - x^2 - z^2}, z)$; its derivative are all rational function of $x$, $z$ and $\sqrt{1 - x^2 - z^2}$, but in the denominator only appear powers of the latter square root, whose argument is strictly positive. So all derivatives are continuous.
+Same thing for any other combination.
