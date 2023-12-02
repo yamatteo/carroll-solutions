@@ -56,6 +56,13 @@ I use [obsidian](https://obsidian.md/) and [excalidraw](https://github.com/excal
 - [[Problem 5.4]]
 - [[Problem 5.5]]
 
+## Section 6. Smooth Maps on a Manifold
+
+- [[Problem 6.1]]
+- [[Problem 6.2]]
+- [[Problem 6.3]]
+- [[Problem 6.4]]
+
 ---
 # Sean Carroll - Spacetime and geometry
 ## Chapter 1. Special relativity and flat spacetime
